@@ -1,4 +1,4 @@
-//Print the star pattern
+//Print the star pattern using \n | Same can be done using 4 different print commands
 //*
 //* *
 //* * * 
