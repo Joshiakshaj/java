@@ -4,6 +4,7 @@ public class sumofn {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        System.out.println("Type a number");
         sc.close();
         
         int sum = 0;
